@@ -1,1 +1,1 @@
-# MIT---Intro-to-Deep-Learning
+# MIT:Intro-to-Deep-Learning
